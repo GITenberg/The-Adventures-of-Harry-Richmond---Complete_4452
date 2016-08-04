@@ -1,0 +1,25 @@
+_repo: The-Adventures-of-Harry-Richmond---Complete_4452
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meredith, George
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '520'
+    url: http://www.gutenberg.org/2009/agents/520
+    wikipedia: http://en.wikipedia.org/wiki/George_Meredith
+description: ''
+gutenberg_issued: '2004-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4452'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Adventures of Harry Richmond — Complete
+url: http://www.gutenberg.org/ebooks/4452
